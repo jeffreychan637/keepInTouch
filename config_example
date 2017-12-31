@@ -1,7 +1,13 @@
+# Twilio API Key
+abcd-1234
+
 # Phone Number
 123-456-7890
 
+# Number of Friends
+3
+
 # Friends List
-1. John Smith
-2. Harry Potter
-3. Luke Skywalker
+John Smith
+Harry Potter
+Luke Skywalker
